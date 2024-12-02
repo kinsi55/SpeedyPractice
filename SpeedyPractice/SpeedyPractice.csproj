@@ -111,7 +111,6 @@
     <Compile Include="Plugin.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="PracticeSpeedPatch.cs" />
-    <Compile Include="SharedCoroutineStarter.cs" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="manifest.json" />
